@@ -68,7 +68,7 @@ You can add the style you want as a decoration tag.
 
 ```javascript:title=gatsby-config.js:clipboard
 {
-  resolve: 'gatsby-remark-writing-decoration',
+  resolve: 'gatsby-remark-text-decoration',
   options: {
     addTags : {
       "mytag" : "style='border-bottom: dotted 3px yellow;'"
@@ -99,7 +99,7 @@ If you put the string "${1}" in the converted content of addTags likes as follow
 
 ```javascript
 {
-  resolve: 'gatsby-remark-writing-decoration',
+  resolve: 'gatsby-remark-text-decoration',
   options: {
     addTags : {
       "bg" : "style='background-color: ${1}'"

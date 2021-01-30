@@ -68,7 +68,7 @@ gatsby-config.js の設定に追記することで、
 
 ```javascript:title=色指定のgatsby-config.js:clipboard
 {
-  resolve: 'gatsby-remark-writing-decoration',
+  resolve: 'gatsby-remark-text-decoration',
   options: {
     addTags : {
       "mytag" : "style='border-bottom: dotted 3px yellow;'"
@@ -99,7 +99,7 @@ gatsby-config.js の設定に追記することで、
 
 ```javascript:title=背景色指定のgatsby-config.js:clipboard
 {
-  resolve: 'gatsby-remark-writing-decoration',
+  resolve: 'gatsby-remark-text-decoration',
   options: {
     addTags : {
       "bg" : "style='background-color: ${1}'"
