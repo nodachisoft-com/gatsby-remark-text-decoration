@@ -42,8 +42,8 @@ plugins: [
 | 斜め文字 | {o} | {o}斜め文字{/}です | \<span style='font-style: oblique;'>斜め文字\</span>です |
 | 下線 | {u-色} | {u-pink}桃色い下線{/}です | \<span style='border-bottom: solid 2px pink;'>桃色の下線\</span>です |
 | 点線の下線 | {udot-色} | {udot-red}赤色の下線{/}です | \<span style='border-bottom: dotted  2px red;'>赤色の下線\</span>です |
-| 下線マーカー| {um-色}| {um-blue}青色マーカーの下線{/}です | \<span style='background:rgba(0, 0, 0, 0) linear-gradient(transparent 60%, ${1} 0%) repeat scroll 0 0;'>青色マーカーの下線\</span>です |
-| マーカー | {m-色} | {m-#00aa00}緑色マーカー{/}です | \<span style='background:rgba(0, 0, 0, 0) linear-gradient(transparent 0%, ${1} 0%) repeat scroll 0 0;'>緑色マーカー\</span>です |
+| 下線マーカー| {um-色}| {um-blue}青色マーカーの下線{/}です | \<span style='background:rgba(0, 0, 0, 0) linear-gradient(transparent 60%, blue 0%) repeat scroll 0 0;'>青色マーカーの下線\</span>です |
+| マーカー | {m-色} | {m-#00aa00}緑色マーカー{/}です | \<span style='background:rgba(0, 0, 0, 0) linear-gradient(transparent 0%, #00aa00 0%) repeat scroll 0 0;'>緑色マーカー\</span>です |
 
 
 ## キーボードっぽい装飾
