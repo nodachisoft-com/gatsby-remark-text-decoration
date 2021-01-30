@@ -1,0 +1,39 @@
+{
+  "name": "gatsby-remark-text-decoration",
+  "version": "1.0.0",
+  "description": "A plugin that allows you to easily decorate Gatsby markdown text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodachisoft-com/gatsby-remark-text-decoration.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-remark",
+    "text decoration"
+  ],
+  "author": "Amaji(https://nodachisoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodachisoft-com/gatsby-remark-text-decoration/issues"
+  },
+  "homepage": "https://nodachisoft.com/",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ],
+    "testMatch": [
+      "**/__tests__/*.spec.js"
+    ],
+    "moduleNameMapper": {
+      "^#/(.+)": "<rootDir>/$1"
+    }
+  }
+}
