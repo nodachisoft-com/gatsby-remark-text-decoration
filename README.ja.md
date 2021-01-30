@@ -122,6 +122,7 @@ gatsby-config.js の設定に追記することで、
 
 お気軽にー。
 
-Twitter: @NodachiSoft_jp
+Twitter: [@NodachiSoft_jp](https://twitter.com/NodachiSoft_jp)
+
 作者: Amaji
 

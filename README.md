@@ -124,7 +124,7 @@ Also, here is Reference : (https://nodachisoft.com/common/en/article/en000109/)[
 If you DM me on twitter I'll be happy!
 Please feel free to contact me.
 
-Twitter: @NodachiSoft_jp
+Twitter: [@NodachiSoft_jp](https://twitter.com/NodachiSoft_jp)
 
 Author: amaji
 
