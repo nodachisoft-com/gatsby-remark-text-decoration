@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-text-decoration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin that allows you to easily decorate Gatsby markdown text.",
   "main": "index.js",
   "scripts": {
