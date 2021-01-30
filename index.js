@@ -1,6 +1,6 @@
 var remark = require("remark")
 var visit = require("unist-util-visit")
-var ConvertDecoTagsToHtml = require('../convert.js');
+var ConvertDecoTagsToHtml = require('./convert.js');
 
 module.exports = ({ markdownAST }, pluginOptions) => {
   visit(markdownAST, "text", node => {
