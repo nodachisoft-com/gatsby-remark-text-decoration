@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-text-decoration",
-  "version": "1.0.2",
-  "description": "A plugin that allows you to easily decorate Gatsby markdown text.",
+  "version": "1.0.4",
+  "description": "Decorate gatsby markdown text(.md) with short ext-tags.",
   "main": "index.js",
   "scripts": {
     "test": "jest"

@@ -119,13 +119,14 @@ You can escape it by including a "\" backslash in front of the symbol in the mar
 
 # Contact
 
-Here is my hopepage:[https://nodachisoft.com/common/jp/contact/](https://nodachisoft.com/common/jp/contact/)
+Also, here is Reference : (https://nodachisoft.com/common/en/article/en000109/)[https://nodachisoft.com/common/en/article/en000109/]
 
-or If you DM me on twitter, I'll be happy!
+If you DM me on twitter I'll be happy!
 Please feel free to contact me.
 
 Twitter: @NodachiSoft_jp
 
 Author: amaji
+
 
 
