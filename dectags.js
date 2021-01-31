@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * Decoration Tags
  */
@@ -28,4 +30,4 @@ const decTags = {
 
 }
 
-module.exports = GetDecTags = () => decTags;
+module.exports = function getDecTags() { return decTags};

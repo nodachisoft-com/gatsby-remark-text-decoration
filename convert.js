@@ -1,4 +1,6 @@
-var GetDecTags = require('./dectags.js');
+"use strict";
+
+var getDecTags = require('./dectags.js');
 
 // === Precompile for speed ===
 // Decoration-Tags format
@@ -19,9 +21,9 @@ const decVarRegExp = new RegExp("\\$\\{1\\}", "g");
  *   html : convertedText(if no convertion, this equals to input str)
  * }
  */
-module.exports = ConvertDecoTagsToHtml = function ( str , addTags = {} ) {
+module.exports = function convertDecoTagsToHtml ( str , addTags = {} ) {
    
-    decTags = Object.assign( GetDecTags() , addTags );
+    const decTags = Object.assign( getDecTags() , addTags );
     const getRegTags = tagRegExp[Symbol.matchAll](str);
     const foundBeginTags = Array.from(getRegTags, x => x[0]);
     var isConverted = false;
