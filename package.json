@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-text-decoration",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Decorate gatsby markdown text(.md) with short ext-tags.",
   "main": "index.js",
   "scripts": {
